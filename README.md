@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040155
+# Name: Keerthana D
+# Date: 
 
 
 # AIM:
